@@ -24,6 +24,6 @@ Here's a placeholder for my future projects. Stay tuned!
 ## Contact
 Feel free to reach out if you'd like to connect or collaborate!
 - **GitHub**: [PanSoulas](https://github.com/PanSoulas)  
-- **LinkedIn**: [Panayiotis Soulas)(www.linkedin.com/in/panayiotis-soulas-1927b5228)
+- **LinkedIn**: [Panayiotis Soulas](www.linkedin.com/in/panayiotis-soulas-1927b5228)
 
 Thank you for visiting my profile!
