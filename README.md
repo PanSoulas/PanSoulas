@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm glad you found your way to my profile. I'm a semi-newcomer programmer passionate about coding and technology. I've been honing my skills in various programming languages, and I'm excited to share my journey with you!
+Hello! I'm a semi-newcomer programmer passionate about coding and technology. I've been honing my skills in various programming languages, and I'm excited to share my journey with you!
 
 ## About Me
 I have a background in several programming languages, primarily focusing on C/C++, Python, and Matlab/Octave. My journey in programming has been both challenging and fulfilling, and I enjoy embracing new learning opportunities.
